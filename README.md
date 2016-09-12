@@ -33,9 +33,6 @@ security.sh)
 
 EXAMPLE systemd Unit File:
 
-# This unit file starts security.sh
-# Added by Brian Hurst on 7/26/16
-
 [Unit]
 Description=security script for CIS240L
 After=syslog.target
